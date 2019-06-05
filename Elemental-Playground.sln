@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elemental-Playground", "Elemental-Playground\Elemental-Playground.csproj", "{56BA46CA-97A3-4768-925D-F1825B107017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56BA46CA-97A3-4768-925D-F1825B107017}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{56BA46CA-97A3-4768-925D-F1825B107017}.Debug|Any CPU.Build.0 = Debug|x86
+		{56BA46CA-97A3-4768-925D-F1825B107017}.Debug|x86.ActiveCfg = Debug|x86
+		{56BA46CA-97A3-4768-925D-F1825B107017}.Debug|x86.Build.0 = Debug|x86
+		{56BA46CA-97A3-4768-925D-F1825B107017}.Release|Any CPU.ActiveCfg = Release|x86
+		{56BA46CA-97A3-4768-925D-F1825B107017}.Release|x86.ActiveCfg = Release|x86
+		{56BA46CA-97A3-4768-925D-F1825B107017}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E838CD8-C82E-4DA8-94B0-EEE106C8E788}
+	EndGlobalSection
+EndGlobal
