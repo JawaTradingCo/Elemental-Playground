@@ -60,6 +60,7 @@ namespace Elemental_Playground.Tools
             if (sim.BoundsCheck(x, y) &&
                 sim.pmap[y, x] != null)
             {
+                /* ADDED THIS COMMENT TO DEMONSTRATE PROPER DIFF in a REPO that is setup properly */
                 sim.pmap[y, x].temperature += 3;
                 sim.pmap[y, x].temperature = Util.Clamp(sim.pmap[y, x].temperature, CONST.MIN_TEMP, CONST.MAX_TEMP);
             }
